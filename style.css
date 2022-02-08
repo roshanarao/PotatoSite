@@ -1,0 +1,16 @@
+*{
+    background-color: white;
+
+}
+
+.potatoTitle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.center {
+    text-align:center;
+    display:block;
+  }
+
+  .paragraph{
+      font-size: medium;
+  }
