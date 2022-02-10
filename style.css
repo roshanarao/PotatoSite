@@ -3,17 +3,43 @@
 
 }
 
-.menu{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    position: sticky;
-    text-align: center;
-    
+.menu {
+	position: sticky;
+	opacity: 90%;
+	top: 0px;
+	text-align: center;
+	background-color:#00e61f;
+	padding-top: 10px;
+	padding-bottom: 10px;
+  border: 1px solid red;
 }
+    
 .center {
+    margin: auto;
     text-align:center;
     display:block;
+    padding:200px;
+  }
+
+  .right {
+    float: right;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
   }
 
   .paragraph{
-      font-size: medium;
+      font-size:large;
+      text-align: center;
+  }
+
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
   }
