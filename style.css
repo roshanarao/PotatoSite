@@ -16,6 +16,7 @@
     text-align:center;
     display:block;
     padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
   .right {
@@ -35,4 +36,8 @@
   .caption{
       font-size:medium;
       text-align:center;
+  }
+
+  .rotate{
+    transform: rotate(270deg);
   }
