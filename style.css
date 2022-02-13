@@ -10,6 +10,17 @@
     background-color: #f2cf33;
     
 }
+
+.bottomMenu{
+  position: static;
+	opacity: 100%;
+	top: 0px;
+	text-align: center;
+	padding-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f2cf33;
+    
+}
     
 .center {
     margin: auto;
@@ -40,4 +51,17 @@
 
   .rotate{
     transform: rotate(270deg);
+  }
+
+  #what{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+
+  #benefits{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  #history{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
